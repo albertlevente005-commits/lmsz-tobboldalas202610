@@ -20,7 +20,8 @@
 - [Megvilágítás mérés (lux mérés)](https://lmsz.hu/megvilagitas-meres.html): munkahelyi és biztonsági világítás; átlag- és minimum-megvilágítás, egyenletesség, színhőmérséklet, színvisszaadás.
 - [Karbantartás, üzemzavar-elhárítás, diagnosztika](https://lmsz.hu/karbantartas.html): transzformátorok, alállomások, fázisjavítók; HGA-vizsgálat, hőtérképezés, nagyfeszültségű mérések.
 - [Lakások érintésvédelmi vizsgálata](https://lmsz.hu/lakas-erintesvedelem.html): lakások, családi házak, társasházak; FI-relé, földelés, hurokimpedancia, szigetelési ellenállás; minősítő irat például adásvételhez.
-- [Napelem, energiatároló, data center felülvizsgálata](https://lmsz.hu/napelem-energiatarolo.html): PV-rendszerek, energiatárolók (BESS) és adatközpontok; DC/AC oldal, inverter, földelés, túlfeszültség-védelem.
+- [Napelemek és energiatárolók felülvizsgálata](https://lmsz.hu/napelem-energiatarolo.html): PV-rendszerek és akkumulátoros tárolók (BESS, otthoni tárolók) felülvizsgálata családi házaknál, cégeknél és napelemparkokban; DC/AC oldal, inverter, földelés, túlfeszültség-védelem, MSZ EN 62446.
+- [Data centerek felülvizsgálata](https://lmsz.hu/data-center.html): adatközpontok villamos biztonsági felülvizsgálata – betáplálás, elosztók, UPS, PDU-k, földelés/EPH, hőkamerás vizsgálat, redundáns ágak egyenként, az üzemmenet zavarása nélkül.
 
 ## A cégről
 
