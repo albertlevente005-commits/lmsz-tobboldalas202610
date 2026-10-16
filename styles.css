@@ -427,3 +427,9 @@ footer{background:var(--ink-deep);color:var(--on-dark);padding:4rem 0 1.5rem;pos
 .kb-grid>.kb-card{flex:0 0 calc(25% - .75rem);max-width:calc(25% - .75rem)}
 @media(max-width:980px){.kb-grid>.kb-card{flex-basis:calc(50% - .5rem);max-width:calc(50% - .5rem)}}
 @media(max-width:560px){.kb-grid>.kb-card{flex-basis:100%;max-width:100%}}
+
+/* Főoldali szolgáltatásrács: az utolsó, hiányos sor középre (flex-alapú 3/2/1 oszlop) */
+.svc-grid{display:flex;flex-wrap:wrap;justify-content:center;gap:1.25rem}
+.svc-grid>.svc{flex:0 0 calc(33.333% - .8334rem);max-width:calc(33.333% - .8334rem)}
+@media(max-width:980px){.svc-grid>.svc{flex-basis:calc(50% - .625rem);max-width:calc(50% - .625rem)}}
+@media(max-width:680px){.svc-grid>.svc{flex-basis:100%;max-width:100%}}
