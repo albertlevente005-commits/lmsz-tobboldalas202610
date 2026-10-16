@@ -417,3 +417,7 @@ footer{background:var(--ink-deep);color:var(--on-dark);padding:4rem 0 1.5rem;pos
 @media(max-width:400px){.nav-cta .btn-primary{display:none}}
 /* A görgetésre felúszó szakaszok helyett azonnal olvasható oldal */
 .reveal{opacity:1}
+
+/* Páratlan utolsó kártya a 2 oszlopos rácsban: középre */
+.svc-detail > .svc:last-child:nth-child(odd){grid-column:1 / -1;width:calc(50% - .7rem);justify-self:center}
+@media(max-width:880px){.svc-detail > .svc:last-child:nth-child(odd){width:100%}}
