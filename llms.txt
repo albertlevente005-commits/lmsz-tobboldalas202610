@@ -25,7 +25,7 @@
 ## A cégről
 
 - [Rólunk](https://lmsz.hu/rolunk.html): felülvizsgálói jogosultságok (érintésvédelmi, villámvédelmi, tűzvédelmi, sújtólég- és robbanásbiztos), elektrikusi FMV bizonyítvány.
-- [Referenciák](https://lmsz.hu/referenciak.html): Four Seasons Hotel Gresham Palace, Pólus Center, Aréna Pláza, UniCredit Bank Hungary, OTP Ingatlan Befektetési Alap, Colas Út és további ipari partnerek.
+- [Referenciák](https://lmsz.hu/referenciak.html): McDonald's éttermek (20+), Aréna Mall (10/0,4 kV alállomás), ArcelorMittal Distribution Hungary, Magyar Állami Operaház – Eiffel Műhelyház, HEXUM Laboratóriumok, 14 budapesti társasház, Four Seasons Hotel Gresham Palace, UniCredit Bank Hungary, MBH Bank, Pólus Center, Takko Fashion, Bizerba, Lenze, CGL Hungary, óvodák és iskolák, további ipari partnerek.
 - [Szolgáltatások áttekintése](https://lmsz.hu/szolgaltatasok.html)
 - [Fázisjavítók felülvizsgálata](https://lmsz.hu/fazisjavito-felulvizsgalat.html): kondenzátortelepek kapacitásmérése, kontaktorok, kisütő ellenállások, hőtérképezés, cos φ szabályozó ellenőrzése; jellemzően évente; jegyzőkönyv + javítás.
 - [Villanyszerelés és villamos kivitelezés](https://lmsz.hu/villanyszereles.html): épület- és technológiai villanyszerelés, erősáramú kivitelezés, energiaellátás, hálózatfelmérés és -javítás, elosztók, villámvédelem kiépítése, strukturált hálózat.
