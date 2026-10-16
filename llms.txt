@@ -1,0 +1,49 @@
+# LMSZ Műszaki Szolgáltató Kft.
+
+> Villamos biztonsági szabványossági felülvizsgálatokat végző budapesti cég: érintésvédelem, tűzvédelem, villámvédelem, robbanásvédelem, megvilágítás mérés, karbantartás, lakások érintésvédelme, valamint napelemes rendszerek, energiatárolók és data centerek felülvizsgálata. Budapesten és országosan dolgozunk.
+
+- Cím: 1148 Budapest, Bolgárkerék u. 4.
+- Cégjegyzékszám: 01-09-861398
+- Adószám: 13555672-2-42
+- Telefon: +36 30 984 1685
+- E-mail: info@lmsz.hu
+- Nyitvatartás: hétfő–péntek 8:00–20:00, hétvégén egyeztetés szerint
+- Árajánlat: díjmentes, jellemzően egy munkanapon belül
+- Dokumentum: Minősítő Irat 2 példányban, sürgős esetben 48 órán belül
+
+## Szolgáltatások és szakmai leírások
+
+- [Érintésvédelmi szabványossági felülvizsgálat](https://lmsz.hu/erintesvedelem.html): a 10/2016. (IV. 5.) NGM rendelet és az MSZ HD 60364 szerint; áram-védőkapcsoló 3 havonta, kéziszerszámok évente, egyéb berendezések 3 évente.
+- [Tűzvédelmi szabványossági felülvizsgálat](https://lmsz.hu/tuzvedelem.html): villamos berendezések vizsgálata az MSZ HD 60364 és az OTSZ (54/2014. (XII. 5.) BM rendelet) szerint; robbanásveszélyes 3 évente, tűz- és nem tűzveszélyes 6 évente.
+- [Villámvédelmi szabványossági felülvizsgálat](https://lmsz.hu/villamvedelem.html): MSZ EN 62305 szerint, külső és belső villámvédelem, többlépcsős túlfeszültség-védelem.
+- [Robbanásbiztos villamos berendezések vizsgálata](https://lmsz.hu/robbanasvedelem.html): MSZ EN 60079-17:2014 és OTSZ szerint; szemrevételezéses, közeli és részletes fokozat, zónabesorolás alapján.
+- [Megvilágítás mérés (lux mérés)](https://lmsz.hu/megvilagitas-meres.html): munkahelyi és biztonsági világítás; átlag- és minimum-megvilágítás, egyenletesség, színhőmérséklet, színvisszaadás.
+- [Karbantartás, üzemzavar-elhárítás, diagnosztika](https://lmsz.hu/karbantartas.html): transzformátorok, alállomások, fázisjavítók; HGA-vizsgálat, hőtérképezés, nagyfeszültségű mérések.
+- [Lakások érintésvédelmi vizsgálata](https://lmsz.hu/lakas-erintesvedelem.html): lakások, családi házak, társasházak; FI-relé, földelés, hurokimpedancia, szigetelési ellenállás; minősítő irat például adásvételhez.
+- [Napelem, energiatároló, data center felülvizsgálata](https://lmsz.hu/napelem-energiatarolo.html): PV-rendszerek, energiatárolók (BESS) és adatközpontok; DC/AC oldal, inverter, földelés, túlfeszültség-védelem.
+
+## A cégről
+
+- [Rólunk](https://lmsz.hu/rolunk.html): felülvizsgálói jogosultságok (érintésvédelmi, villámvédelmi, tűzvédelmi, sújtólég- és robbanásbiztos), elektrikusi FMV bizonyítvány.
+- [Referenciák](https://lmsz.hu/referenciak.html): Four Seasons Hotel Gresham Palace, Pólus Center, Aréna Pláza, UniCredit Bank Hungary, OTP Ingatlan Befektetési Alap, Colas Út és további ipari partnerek.
+- [Szolgáltatások áttekintése](https://lmsz.hu/szolgaltatasok.html)
+- [Tudástár](https://lmsz.hu/tudastar.html)
+- [Kapcsolat és árajánlatkérés](https://lmsz.hu/kapcsolat.html)
+
+
+## Gyakori kérdések
+
+- **Milyen gyakran kell érintésvédelmi felülvizsgálatot végeztetni?** A 10/2016. (IV. 5.) NGM rendelet szerint az áram-védőkapcsolókat (FI-relé) háromhavonta, a kéziszerszámokat és hordozható biztonsági transzformátorokat évente kell szerelői ellenőrzéssel vizsgálni, az egyéb villamos berendezések érintésvédelmi felülvizsgálata pedig 3 évente esedékes.
+- **Milyen gyakran kötelező a villamos berendezések tűzvédelmi felülvizsgálata?** Az Országos Tűzvédelmi Szabályzat (54/2014. (XII. 5.) BM rendelet) szerint robbanásveszélyes osztályba tartozó helyiségben és szabadtéren legalább 3 évente, tűzveszélyes és nem tűzveszélyes osztályba tartozó helyiségben és szabadtéren legalább 6 évente.
+- **Mi a különbség az érintésvédelmi és a tűzvédelmi felülvizsgálat között?** Az érintésvédelmi felülvizsgálat azt ellenőrzi, hogy a berendezés véd-e az áramütés ellen – a feszültség alatt álló részek érintése és a meghibásodás (testzárlat) miatt feszültség alá kerülő részek ellen is. A tűzvédelmi felülvizsgálat állapotfelmérés: azt vizsgálja, hogy a szigetelés és a szerelés elöregedése nem jelent-e tűzveszélyt, és a berendezés megfelel-e a helyiség tűzvédelmi kockázati besorolásának.
+- **Milyen dokumentumot kapok, és mennyi idő alatt?** A felülvizsgálatról 2 példányban Minősítő Iratot állítunk ki a mérési eredményekkel, a feltárt hibákkal és a javítási javaslatokkal. Sürgős esetben, például üzembe helyezés előtt, 48 órán belül szállítjuk.
+- **Érdemes érintésvédelmi vizsgálatot kérni lakásvásárlás előtt?** Igen. A vizsgálat méréssel mutatja meg, biztonságos-e a lakás villamos hálózata: kiderül, ha elöregedett a szigetelés, meglazultak a kötések, vagy hiányzik a FI-relé. Hasznos régi, felújítatlan hálózatnál, villamos felújítás után, valamint ha biztosító vagy bérbeadás igazolást kér.
+- **Mit mérnek egy lakás érintésvédelmi vizsgálatán?** Ellenőrizzük az elosztótáblát, a kismegszakítókat és biztosítókat, a FI-relé meglétét és működését, a védőföldelést és az egyenpotenciálra hozást (EPH). Mérjük a hurokimpedanciát és a szigetelési ellenállást, és átvizsgáljuk a dugaszolóaljzatokat, kapcsolókat és világítási áramköröket.
+- **Mit tartalmaz a villámvédelmi felülvizsgálat?** Az MSZ EN 62305 szabvány szerint vizsgáljuk a külső villámvédelmet (felfogók, levezetők, földelők, földelési ellenállás) és a belső villámvédelmet, vagyis a többlépcsős túlfeszültség-védelmet, amely a hálózaton bejutó túlfeszültségtől óvja a berendezéseket.
+- **Ki végezheti a robbanásbiztos berendezések felülvizsgálatát?** Az MSZ EN 60079-17:2014 szabvány szerint a felülvizsgálatot sújtólég- és robbanásbiztos villamosberendezés-felülvizsgálói jogosultsággal rendelkező szakember végezheti – nálunk ez a jogosultság megvan. A vizsgálat három fokozata: szemrevételezéses, közeli és részletes felülvizsgálat.
+- **Mit ellenőriznek egy napelemes rendszer felülvizsgálatán?** A DC oldali csatlakozókat, kábelezést és sorbiztosítókat, az inverter működését és csatlakozásait, a modulok és a tartószerkezet földelését, a túlfeszültség- és villámvédelmet, valamint mérjük a szigetelési ellenállást és a védelmeket. Energiatárolókat (BESS) és adatközpontokat is vizsgálunk.
+- **Hogyan kérhetek árajánlatot, és hol dolgoznak?** Az ajánlatkérés díjmentes: hívjon a +36 30 984 1685-ös számon, írjon az info@lmsz.hu címre, vagy töltse ki az űrlapot – jellemzően egy munkanapon belül válaszolunk. Az ár a létesítmény méretétől és a vizsgálat típusától függ. Budapesten és országosan vállalunk munkát.
+
+## Egyéb
+
+- [Adatvédelmi tájékoztató](https://lmsz.hu/adatvedelem.html)
