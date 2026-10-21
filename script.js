@@ -4,7 +4,7 @@
 // hozz létre egy űrlapot az info@lmsz.hu címmel, majd az ott kapott
 // azonosítót írd be ide az idézőjelek közé, pl.: "mzzgkqyw".
 // Amíg üres, az űrlap a levelezőprogramot nyitja meg (mailto).
-const FORMSPREE_ID = "";
+const FORMSPREE_ID = "xjygnpkn";
 // ---------------------------------------------------------------
 // GOOGLE ADS KONVERZIÓMÉRÉS: a Google-címke (AW-7125102082) minden oldal
 // fejlécében bent van. Ide a két konverziós művelet CÍMKÉJÉT kell beírni
