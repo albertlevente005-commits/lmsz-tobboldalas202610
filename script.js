@@ -11,7 +11,7 @@ const FORMSPREE_ID = "xjygnpkn";
 // (a Google Ads-ben a 'send_to' értékének "/" utáni része):
 const ADS_ID = "AW-851426527";
 const ADS_LABEL_FORM = "3ZYgCPfvhY0BEN_5_pUD";   // pl. "AbCdEfGhIjK" – Árajánlatkérés (űrlap elküldve)
-const ADS_LABEL_CALL = "";   // pl. "ZyXwVuTsRqP" – Telefonhívás kattintás
+const ADS_LABEL_CALL = "01nmCLLhh6UdEN_5_pUD";   // pl. "ZyXwVuTsRqP" – Telefonhívás kattintás
 function adsConversion(label, ga4Event) {
   if (typeof gtag !== 'function') return;
   if (label) gtag('event', 'conversion', { send_to: ADS_ID + '/' + label });
