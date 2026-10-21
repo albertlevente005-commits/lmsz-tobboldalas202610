@@ -6,11 +6,11 @@
 // Amíg üres, az űrlap a levelezőprogramot nyitja meg (mailto).
 const FORMSPREE_ID = "xjygnpkn";
 // ---------------------------------------------------------------
-// GOOGLE ADS KONVERZIÓMÉRÉS: a Google-címke (AW-7125102082) minden oldal
+// GOOGLE ADS KONVERZIÓMÉRÉS: a Google-címke (AW-851426527) minden oldal
 // fejlécében bent van. Ide a két konverziós művelet CÍMKÉJÉT kell beírni
 // (a Google Ads-ben a 'send_to' értékének "/" utáni része):
-const ADS_ID = "AW-7125102082";
-const ADS_LABEL_FORM = "";   // pl. "AbCdEfGhIjK" – Árajánlatkérés (űrlap elküldve)
+const ADS_ID = "AW-851426527";
+const ADS_LABEL_FORM = "3ZYgCPfvhY0BEN_5_pUD";   // pl. "AbCdEfGhIjK" – Árajánlatkérés (űrlap elküldve)
 const ADS_LABEL_CALL = "";   // pl. "ZyXwVuTsRqP" – Telefonhívás kattintás
 function adsConversion(label, ga4Event) {
   if (typeof gtag !== 'function') return;
