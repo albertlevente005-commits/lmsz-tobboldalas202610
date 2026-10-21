@@ -117,6 +117,14 @@ if (cf) {
     if (f.website && f.website.value) { showSuccess(f); return; } // honeypot – robot
     const nev = f.nev.value, ceg = f.ceg.value, email = f.email.value,
           tel = f.tel.value, szolg = f.szolg.value, uzenet = f.uzenet.value;
+    // Google Ads kibővített konverzió: a megadott e-mail/telefon titkosítva kerül átadásra
+    if (typeof gtag === 'function') {
+      const ud = {};
+      if (email) ud.email = email.trim().toLowerCase();
+      const digits = tel.replace(/[^\d+]/g, '');
+      if (digits) ud.phone_number = digits.startsWith('+') ? digits : (digits.startsWith('06') ? '+36' + digits.slice(2) : digits.startsWith('36') ? '+' + digits : '+36' + digits);
+      if (Object.keys(ud).length) gtag('set', 'user_data', ud);
+    }
     if (FORMSPREE_ID) {
       const btn = f.querySelector('button[type="submit"]');
       btn.disabled = true; btn.textContent = 'Küldés...';
