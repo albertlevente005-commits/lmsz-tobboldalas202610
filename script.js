@@ -21,6 +21,17 @@ function adsConversion(label, ga4Event) {
 document.querySelectorAll('a[href^="tel:"]').forEach(a => a.addEventListener('click', () => adsConversion(ADS_LABEL_CALL, 'phone_call_click')));
 // ---------------------------------------------------------------
 
+// Hirdetés-azonosítók, érkezési oldal és IP megjegyzése az űrlaphoz
+try {
+  const q0 = new URLSearchParams(location.search);
+  if (q0.get('gclid')) sessionStorage.setItem('lmsz_gclid', q0.get('gclid'));
+  if (q0.get('gad_campaignid')) sessionStorage.setItem('lmsz_camp', q0.get('gad_campaignid'));
+  if (!sessionStorage.getItem('lmsz_landing')) sessionStorage.setItem('lmsz_landing', location.href);
+  if (!sessionStorage.getItem('lmsz_ip') && document.getElementById('contactForm')) {
+    fetch('https://api.ipify.org?format=json').then(r => r.json()).then(d => { if (d && d.ip) sessionStorage.setItem('lmsz_ip', d.ip); }).catch(() => {});
+  }
+} catch (err) {}
+
 // fejléc árnyék, görgetési jelző, vissza-a-tetejére gomb
 const nav = document.getElementById('nav');
 const prog = document.getElementById('progress');
@@ -125,6 +136,19 @@ if (cf) {
       if (digits) ud.phone_number = digits.startsWith('+') ? digits : (digits.startsWith('06') ? '+36' + digits.slice(2) : digits.startsWith('36') ? '+' + digits : '+36' + digits);
       if (Object.keys(ud).length) gtag('set', 'user_data', ud);
     }
+    // Rejtett mezők: honnan jött az érdeklődő (oldal, hirdetés, kampány, idő, IP)
+    try {
+      const q = new URLSearchParams(location.search);
+      const set = (n, v) => { const el = f.querySelector('input[name="' + n + '"]'); if (el) el.value = v || ''; };
+      set('Oldal (URL)', location.href);
+      set('Hirdetés (gclid)', q.get('gclid') || sessionStorage.getItem('lmsz_gclid') || '');
+      set('Kampány azonosító', q.get('gad_campaignid') || sessionStorage.getItem('lmsz_camp') || '');
+      set('Küldés ideje', new Date().toLocaleString('hu-HU'));
+      set('IP-cím', sessionStorage.getItem('lmsz_ip') || '');
+      set('Hivatkozó oldal', sessionStorage.getItem('lmsz_landing') || document.referrer || '');
+      set('Böngésző', navigator.userAgent);
+      set('_subject', 'Árajánlatkérés – ' + (szolg || 'lmsz.hu') + ' (' + nev + ')');
+    } catch (err) {}
     if (FORMSPREE_ID) {
       const btn = f.querySelector('button[type="submit"]');
       btn.disabled = true; btn.textContent = 'Küldés...';
