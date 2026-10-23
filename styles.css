@@ -447,10 +447,12 @@ footer{background:var(--ink-deep);color:var(--on-dark);padding:4rem 0 1.5rem;pos
 .hero-visual::after{content:"";position:absolute;inset:0;border-radius:var(--r-lg);background:linear-gradient(180deg,transparent 50%,rgba(9,24,39,.45));pointer-events:none}
 .hero-visual .term{z-index:2;width:min(390px,90%);margin:0 0 -2.2rem -2.8rem;transform:rotate(-1.2deg)}
 @media(max-width:980px){
-  .hero-visual{min-height:400px;width:100%;max-width:600px}
-  .hero-visual .term{margin:0 auto -1.6rem;width:min(420px,92%);transform:none}
+  .hero-visual{display:block;min-height:0;width:100%;max-width:600px}
+  .hero-photo{position:relative;display:block;height:320px}
+  .hero-visual::after{bottom:auto;height:320px}
+  .hero-visual .term{margin:-80px auto 0;width:min(420px,92%);transform:none}
 }
-@media(max-width:560px){.hero-visual{min-height:320px}}
+@media(max-width:560px){.hero-photo{height:250px}.hero-visual::after{height:250px}.hero-visual .term{margin-top:-60px}}
 
 /* Kártyaképek: szolgáltatások, tudástár, referenciák */
 .svc-media,.kb-media,.ref-media{position:relative;overflow:hidden;background:var(--paper-2);aspect-ratio:16/10}
